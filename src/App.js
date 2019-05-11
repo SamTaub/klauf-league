@@ -1,8 +1,9 @@
 import React from 'react';
+import PreviewHome from './components/PreviewHome';
 
 function App() {
   return (
-    <h1>~~~Klauf League~~~~</h1>
+    <PreviewHome />
   );
 }
 
